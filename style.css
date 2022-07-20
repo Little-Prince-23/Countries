@@ -13,7 +13,7 @@ body {
   justify-content: center;
   height: 100vh;
   font-family: "Poppins", sans-serif;
-  overflow-y: hidden;
+  /* overflow-y: hidden; */
 }
 
 input {
